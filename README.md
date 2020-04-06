@@ -4,7 +4,7 @@ Databases
 
 MySQL √
 
-###### ~~PostgreSQL~~
+PostgreSQL √
 
 ###### ~~MongoDB~~
 
